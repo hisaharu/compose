@@ -1,0 +1,5 @@
+version: "2"
+services:
+  compose:
+    build: .
+    image: hisaharu/compose
